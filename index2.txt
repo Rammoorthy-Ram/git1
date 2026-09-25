@@ -1,2 +1,17 @@
 lets see how to push the code from the vs code into git
         if follow this procedure to push the code from the vs code into the github
+
+                        Assume it as a GitFolder=>
+                                git copy folder=>working folder=>text1.txt(Untracked)=>not yet moved to the git copy folder
+        =>on that time we will get the symbol 'U Untracked'
+
+        =>Use this command they are{ git add index2.txt(file name) }
+
+        =>checkonce using the git status(there they will show the green text)
+                                        now its moved to the working folder into the git copy folder
+        =>Use this command{ git commit -m "index2.txt"}
+
+        =>now its setuped but in git its not showing because of the we didn't push the git copy folder into the git folder
+        =>for that we have to use commands they are 
+
+        =>Use this command they are git {git push origin main}

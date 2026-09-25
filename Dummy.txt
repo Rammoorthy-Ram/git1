@@ -1,0 +1,3 @@
+This is the procedure to get the file if we created the file in the git hub with the same folder how to retriew the file from the fit to vs code
+      just one command they are
+            =>git pull

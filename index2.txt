@@ -15,3 +15,5 @@ lets see how to push the code from the vs code into git
         =>for that we have to use commands they are 
 
         =>Use this command they are git {git push origin main}
+this is the process for if we write the code or changed the text in the git means hoe to retriew same command this also
+        =>use this command they are (git pull)

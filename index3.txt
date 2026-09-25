@@ -1,1 +1,7 @@
 hey this is for the text 3 file for practicing
+for modify also the same procedure
+                they are the 
+                    =>git add filename
+                    =>git commit -m "index3.txt added"
+                    =>git push origin main
+                    

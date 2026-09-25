@@ -15,5 +15,16 @@ lets see how to push the code from the vs code into git
         =>for that we have to use commands they are 
 
         =>Use this command they are  {git push origin main}
-this is the process for if we write the code or changed the text in the git means hoe to retriew same command this also
+        this is the process for if we write the code or changed the text in the git means hoe to retriew same command this also
+
         =>use this command they are (git pull)
+
+
+                         =>This is the same procedure for the push the code and then modify the code they are
+                                                        =>git add index2.txt(file name)
+                                                        =>git commit -m "index2.txt file added"
+                                                        =>git push origin main
+
+                                                        =>git add index2.ts(file name)
+                                                        =>git commit -m "Modified the index2.txt file"
+                                                        =>git push origin main

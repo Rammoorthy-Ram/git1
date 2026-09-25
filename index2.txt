@@ -1,0 +1,2 @@
+lets see how to push the code from the vs code into git
+        if follow this procedure to push the code from the vs code into the github

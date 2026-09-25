@@ -14,6 +14,6 @@ lets see how to push the code from the vs code into git
         =>now its setuped but in git its not showing because of the we didn't push the git copy folder into the git folder
         =>for that we have to use commands they are 
 
-        =>Use this command they are git {git push origin main}
+        =>Use this command they are  {git push origin main}
 this is the process for if we write the code or changed the text in the git means hoe to retriew same command this also
         =>use this command they are (git pull)
